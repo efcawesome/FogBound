@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FogBound", "FogBound.csproj", "{2726E7F1-651B-4057-9032-E1A8A0E3FDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2726E7F1-651B-4057-9032-E1A8A0E3FDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2726E7F1-651B-4057-9032-E1A8A0E3FDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2726E7F1-651B-4057-9032-E1A8A0E3FDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2726E7F1-651B-4057-9032-E1A8A0E3FDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E59AC1-5C19-45E0-AF51-2D19A7CB9CF0}
+	EndGlobalSection
+EndGlobal
