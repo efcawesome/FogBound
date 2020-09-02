@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLEtwp4BW8z7BoYmceN5G22kQ+2Uh64+ebPI5aZ5vMbqj45c9uirNY5vhM0hg9btprsDY7ug07zfUgJszJVrYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efcaw\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\FogBound\\FogBound.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efcaw\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
